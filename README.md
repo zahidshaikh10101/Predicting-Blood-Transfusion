@@ -1,1 +1,1 @@
-# Predicting-Blood-Transfusion-MedTourEasy
+# Predicting-Blood-Transfusion
